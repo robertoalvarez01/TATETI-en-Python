@@ -23,7 +23,6 @@ def turno():
 			turn = 2
 		elif turn == 2:
 			turn = 1
-		messagebox.showinfo("Turno", "Es el turno del jugador número: {}".format(turn))
 
 
 # ---------------------------------------------------
